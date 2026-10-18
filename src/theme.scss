@@ -1,0 +1,36 @@
+/* Generated from sites/sicario-chilli/site.json. */
+:root {
+  --bg: #f7f4ef;
+  --bg-alt: #efe9df;
+  --surface: #ffffff;
+  --ink: #151412;
+  --muted: #5e5a53;
+  --line: #e2dbcf;
+  --accent: #e4572e;
+  --accent-strong: #b23f1d;
+  --accent-ink: #ffffff;
+  --accent-soft: #fadfd5;
+  --accent-on-dark: #ff9a78;
+  --dark: #121212;
+  --dark-ink: #ffffff;
+  --error: #b42318;
+  --font-display: 'Alfa Slab One', Georgia, serif;
+  --font-body: 'Work Sans', 'Helvetica Neue', Arial, sans-serif;
+  --display-weight: 400;
+  --display-tracking: 0.01em;
+  --radius: 10px;
+  --button-radius: 6px;
+  --hero-position: center;
+  --logo-ratio: 1;
+  --product-position: center;
+  --topbar-bg: #ffffff;
+  --topbar-ink: #151412;
+  --topbar-line: #e2dbcf;
+  --product-fit: contain;
+  --product-bg: #ece5da;
+  --logo-bg: #ffffff;
+  --logo-pad: 0.3rem 0.5rem;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max-width: 1200px;
+  color-scheme: light;
+}
